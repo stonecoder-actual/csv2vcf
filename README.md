@@ -170,5 +170,3 @@ END:VCARD
   → Always wrap filenames in quotes: `"EvilCorps Roster.csv"`
 
 ---
-
-Do you also want me to add a **Quick Start (3 steps only)** section at the top for users who just want the short version?

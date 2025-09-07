@@ -119,6 +119,21 @@ python3 csv_to_vcf.py "G35 Roster.csv" "G35-roster.vcf"
 
 ---
 
+## 📧 Importing into Google Contacts (Gmail)
+
+Open Google Contacts
+.
+
+On the left menu, click Import.
+
+Choose Select File and pick your .vcf.
+
+Click Import.
+
+If your phone is synced with Google Contacts, the contacts will automatically appear on your Android device.
+
+---
+
 ## ✅ Example Output
 
 For the above CSV, the `.vcf` will look like this:
@@ -168,9 +183,8 @@ END:VCARD
   ```
 
 * **Spaces in filenames**
-  Always wrap filenames with quotes if they have spaces (e.g., `"G35 Roster.csv"`).
+  Always wrap filenames with quotes if they have spaces (e.g., `"EvilCorps Roster.csv"`).
 
 ```
 
-Would you like me to also add **Google Contacts (Gmail)** import steps so Android users who sync via Gmail can follow along?
 ```
